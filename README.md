@@ -1,3 +1,8 @@
+![Python](https://img.shields.io/badge/python-3.15-blue)
+![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-green)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-Ultralytics-orange)
+![Flask](https://img.shields.io/badge/Flask-Web%20App-black)
+![Stars](https://img.shields.io/github/stars/HarshuPandhare/yolov8-opencv-computer-vision-system)
 # Security_CAM
 
 ## Overview
