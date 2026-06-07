@@ -171,25 +171,19 @@ The following image shows the class distribution and annotation statistics of th
 
 # Training Batch Samples
 
-The following images show examples of annotated training batches used during YOLO training.
+The following images show annotated training batches generated during YOLO training.
 
-### Training Batch 0
+| Training Batch 0 | Training Batch 1 |
+|------------------|------------------|
+| ![Batch 0](screenshots/train_batch0.jpg) | ![Batch 1](screenshots/train_batch1.jpg) |
 
-![Training Batch 0](screenshots/train_batch0.jpg)
-
----
-
-### Training Batch 1
-
-![Training Batch 1](screenshots/train_batch1.jpg)
+| Training Batch 2 |
+|------------------|
+| ![Batch 2](screenshots/train_batch2.jpg) |
 
 ---
 
-### Training Batch 2
 
-![Training Batch 2](screenshots/train_batch2.jpg)
-
----
 
 # Detection Results
 
